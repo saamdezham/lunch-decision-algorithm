@@ -24,4 +24,4 @@ It updates meal preferences over time using user feedback and compares both stra
 Make sure you have Python 3 installed. Then run:
 
 ```bash
-python lunch_picker.py
+python Lunch_Decision_Algorithm.py.py
