@@ -26,3 +26,5 @@ Make sure you have Python 3 installed. Then run:
 
 ```bash
 python Lunch_Decision_Algorithm.py
+python test_lunch_decision_algorithm.py
+
