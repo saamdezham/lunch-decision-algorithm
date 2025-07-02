@@ -14,7 +14,8 @@ It updates meal preferences over time using user feedback and compares both stra
 
 ##Files
 
-- `Lunch_Decision_Algorithm.py.py` — Core algorithm and simulation logic
+- `Lunch_Decision_Algorithm.py` — Core algorithm and simulation logic
+- `test_lunch_decision_algorithm.py` - Automated test suite
 - `README.md` — This file
 
 ---
@@ -24,4 +25,4 @@ It updates meal preferences over time using user feedback and compares both stra
 Make sure you have Python 3 installed. Then run:
 
 ```bash
-python Lunch_Decision_Algorithm.py.py
+python Lunch_Decision_Algorithm.py
