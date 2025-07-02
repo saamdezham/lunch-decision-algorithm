@@ -14,7 +14,7 @@ It updates meal preferences over time using user feedback and compares both stra
 
 ##Files
 
-- `lunch_picker.py` — Core algorithm and simulation logic
+- `Lunch_Decision_Algorithm.py.py` — Core algorithm and simulation logic
 - `README.md` — This file
 
 ---
